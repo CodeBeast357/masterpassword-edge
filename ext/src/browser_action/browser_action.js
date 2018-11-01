@@ -269,7 +269,7 @@ function popup(session_store_) {
 
     get_active_tab_url()
     .then(function(url){
-        if (url.startsWith('about:') || url.startsWith('chrome-extension:') || url.startsWith('chrome:'))
+        if (url.startsWith('about:'))
             url = '';
         var domain = parse_uri(url).domain.split("."),
             significant_parts = 2;

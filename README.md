@@ -1,22 +1,20 @@
-# masterpassword-chrome
-Master Password implemented as a Chrome extension
+# masterpassword-edge
+Master Password implemented as a Edge extension
 
-This is a chrome extension implementing the masterpassword algorithm invented by Maarten Billemont. You can visit his website at [masterpasswordapp.com](http://masterpasswordapp.com). 
+This is a edge extension implementing the masterpassword algorithm invented by Maarten Billemont. You can visit his website at [masterpasswordapp.com](http://masterpasswordapp.com). 
 
 **Please note that this plugin is not affiliated with Mr Billemont**
 
-The site settings will sync between your chrome installations if you have chrome sync enabled. (also in incognito)
+The site settings will sync between your edge installations if you have edge sync enabled. (also in incognito)
 
 # Installation
 
-Find the extension at in the appstore [here](https://chrome.google.com/webstore/detail/masterpassword-for-chrome/hifbblnjfcimjnlhibannjoclibgedmd?hl=en-US&gl=US)
+Find the extension at in the appstore [here](about:blank)
 
-or download from the [releases page](https://github.com/ttyridal/masterpassword-chrome/releases) and:
-* Open the chrome exensions setting [chrome://extensions/](chrome://extensions/) and drag the file over it.
-* 
+or download from the [releases page](https://github.com/CodeBeast357/masterpassword-edge/releases) and:
 
 # Incognito mode
-Exensions are by default prevented from running in incognito mode. You can allow the masterpassword exension in by visiting the [chrome://extensions/](chrome://extensions/) exension settings and check the box. Masterpassword will *not* save site configs when in incognito mode.
+Exensions are by default prevented from running in incognito mode. You can allow the masterpassword exension in by visiting the [N/A](about:blank) exension settings and check the box. Masterpassword will *not* save site configs when in incognito mode.
 
 # Changing the site name
 Many sites (like google) have localized url's (google.de, google.co.uk etc). It is recommended that you use the global (ie google.com) as the site name in such cases.
